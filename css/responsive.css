@@ -8,7 +8,7 @@
 
 	.banner-info h2 {
 	    font-size: 110px;
-	    line-height: 80px;
+	    line-height: 92px;
 	}	
 	#navigation.menu-one .navbar {
 		width: 27%;
@@ -147,7 +147,7 @@
 		padding-left: 0;
 	}
 	.banner-info h2 {
-	    font-size: 85px;
+	    font-size: 76px;
 	    line-height: 50px;
 	}	
 	.banner-info h3 {
@@ -608,7 +608,7 @@
 		line-height: 15px;
 	}
 	.banner-info h3 {
-		letter-spacing: 8px;
+		letter-spacing: 4px;
 	}
 	.achievement {
 		text-align: left;
