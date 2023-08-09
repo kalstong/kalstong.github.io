@@ -477,7 +477,7 @@ ul {
     padding-left: 30px;
 }
 
-li {
+.bullet {
     list-style-type: circle;
 }
 
@@ -499,6 +499,7 @@ li {
 }
 
 .banner-info h1 {
+    padding-top: 10px;
     font-size: 48px;
     font-family: 'rookies-showtimesregular';
 }
